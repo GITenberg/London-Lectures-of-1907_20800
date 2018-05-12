@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1425
     wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20800#London-Lectures-of-1907
 gutenberg_issued: '2007-03-12'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,31 @@
+_repo: London-Lectures-of-1907_20800
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besant, Annie
+    aliases:
+    - Wood, Annie
+    - Besant, Annie Wood
+    birthdate: 1847
+    deathdate: 1933
+    gutenberg_agent_id: '1425'
+    url: http://www.gutenberg.org/2009/agents/1425
+    wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
+description: ''
+gutenberg_issued: '2007-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20800'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theosophy'
+- !lcsh 'Religions'
+- !lcc 'BP'
+title: London Lectures of 1907
+url: http://www.gutenberg.org/ebooks/20800
